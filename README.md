@@ -7,10 +7,10 @@ A simple calendar application that allows a user to save events for each hour of
 ## URLs
 
 * Deployed Application: 
-    - [https://github.com/mskippen/05-Work-Day-Scheduler](https://github.com/mskippen/05-Work-Day-Scheduler)
+    - [https://dylan-truong.github.io/05-Work-Day-Scheduler/](https://dylan-truong.github.io/05-Work-Day-Scheduler/)
 
 * GitHub Repository:
-    - [https://github.com/mskippen/05-Work-Day-Scheduler](https://github.com/mskippen/05-Work-Day-Scheduler)
+    - [https://github.com/Dylan-Truong/05-Work-Day-Scheduler](https://github.com/Dylan-Truong/05-Work-Day-Scheduler)
 
 ## Screenshot
 
