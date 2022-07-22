@@ -14,4 +14,4 @@ A simple calendar application that allows a user to save events for each hour of
 
 ## Screenshot
 
-![](./assets/images/work-day-scheduler-mainpage.png)
+![](./Assets/images/work-day-scheduler-mainpage.png)
